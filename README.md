@@ -1,2 +1,3 @@
-# JarvisFlutterBot
-This is a  custom chatBot application made by Using Dialogflow.
+# chatbot_app
+
+A new Flutter project.
